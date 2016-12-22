@@ -7,6 +7,6 @@ The testat was made in the excercieces of the week 2, 3 and 4. It's based on the
 ## Testat 2
 The testat was made in the some other excercieces. It's based on a word class, which was used multiple times during the semester.
 
-## Testat 4
+## Testat 3
 The testat was made in little exercieces a the end of the semster.
 
